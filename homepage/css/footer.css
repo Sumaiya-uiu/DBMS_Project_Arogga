@@ -1,0 +1,15 @@
+section{
+	background: #11827D;
+  
+}
+section>p{
+	text-align: center;
+}
+
+.f-logo>p{
+	margin: 10px;
+	padding: 5px;
+	font-size: 20px;
+	color: white;
+}
+
